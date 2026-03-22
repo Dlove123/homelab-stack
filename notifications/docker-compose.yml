@@ -1,4 +1,4 @@
-# Notifications Stack - ntfy + Gotify + Apprise
+# Notifications Stack - ntfy + Gotify + Apprise (#13)
 version: '3.8'
 
 services:

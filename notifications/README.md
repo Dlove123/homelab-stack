@@ -1,23 +1,18 @@
-# Notifications Stack
+# Notifications Stack - #13
 
-统一通知中心 - ntfy + Gotify + Apprise
+**Bounty**: $80
 
-## 服务
+## Services
+- ntfy: Simple push notifications
+- Gotify: Self-hosted push notifications
+- Apprise: Notification aggregator
 
-- **ntfy**: 简单推送服务
-- **Gotify**: 自托管消息推送
-- **Apprise**: 通知聚合器
-
-## 使用
-
+## Usage
 ```bash
 docker-compose up -d
 ```
 
-## 访问
-
+## Access
 - ntfy: http://localhost:8080
 - Gotify: http://localhost:8081
 - Apprise: http://localhost:8000
-
-## Bounty: #13 ($80)
